@@ -37,7 +37,7 @@ Usage
  
  Ask Any question based on the super market business;
 
- It can You answer you precisely and simply.
+ It can  answer you precisely and simply.
 
  Here is the colab Link for your reference
  ```ruby
