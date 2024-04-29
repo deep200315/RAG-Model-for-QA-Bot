@@ -13,8 +13,7 @@ Model Setup
 git clone https://github.com/deep200315/RAG-Model-for-QA-Bot.git
 ```
 2. Navigate to the project directory:
-```ruby
-```
+
 3. Create a virtual environment (optional but recommended when using personal environment):
 ```ruby
 python -m venv venv
@@ -32,9 +31,7 @@ refer the pip commands in the code
 ```
 
 6. Run the each cell one by one 
-```ruby
 
-```
 
 Usage
  
